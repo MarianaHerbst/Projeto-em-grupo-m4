@@ -39,12 +39,21 @@ ul {
 
 .corpoF {
   text-align: center;
-  background-color: rgba(241, 239, 239, 0.5);
+  background-color: rgba(41, 40, 40, 0.5);
 }
+
+.corpoF img {
+  width: 1000px;
+}
+
 .corpoF h1 {
   color: white;
   text-decoration: none;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.corpoF h2{
+  color: white;
 }
 
 .corpoF {
@@ -76,7 +85,7 @@ a .align-self-end {
   background: rgb(250, 249, 249);
   box-shadow: 2px 5px 15px rgb(104, 104, 104);
   transition: 0.5s;
-  color: #09e8f0;
+  color: #faffff;
   margin-left: 50px;
   margin: #282a2c;
   display: flex;
