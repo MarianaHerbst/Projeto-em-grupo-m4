@@ -1,5 +1,5 @@
 
-#Trata-se do projeto em grupo do módulo 4 da resília: "Visualizando a situação".
+## Trata-se do projeto em grupo do módulo 4 da resília: "Visualizando a situação".
 
 Criamos uma dashboard a partir das informações que filtramos do conjunto de dados da Steam (plataforma de distribuição de jogos).
 
