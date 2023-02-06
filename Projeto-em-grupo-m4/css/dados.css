@@ -11,6 +11,7 @@ body{
     background-attachment: fixed;
     -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
+    justify-content: center;
 }
 /* Fim personalização da body */
 
@@ -45,7 +46,8 @@ ul{ display:flex;
   text-align: center;
   margin-left: 100px;
   padding: 30px;
-
+  justify-content: center;
+  justify-items: center;
 }
   
 
